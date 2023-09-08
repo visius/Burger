@@ -1,0 +1,14 @@
+[
+	{
+		"ingID":3,
+		"ingCNT":2
+	},
+	{
+		"ingID":6,
+		"ingCNT":1
+	},
+	{
+		"ingID":1,
+		"ingCNT":3
+	}
+]
